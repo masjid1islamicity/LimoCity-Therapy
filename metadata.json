@@ -1,0 +1,11 @@
+{
+  "name": "LimoCity Therapy",
+  "description": "Platform dan infrastruktur telemedisin kesehatan mental cerdas berdaya LimoCity Therapy (therapy.islamicity.tv) dengan penjadwalan janji temu mudah, konsultasi virtual terenkripsi, psikolog & terapis berlisensi, serta asisten AI Tazkiyatun Nafs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
